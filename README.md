@@ -8,4 +8,6 @@ Tarvitset es_extended (1.1.0 - uusimpaan) tai extendedmode https://github.com/es
 
 mythic_notify: https://github.com/JayMontana36/mythic_notify
 
+Video Preview: https://streamable.com/e4a9g4
+
 :=)
