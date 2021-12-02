@@ -1,6 +1,6 @@
 # esx_jx_banking
 
-Simppeli ESX Banking Scripti! Tehty esx_atm pohjalle :)
+Simppeli ESX Banking Scripti! Tehty hutassti esx_atm pohjalle :D
 
 Saa käyttää ja muokata!
 
